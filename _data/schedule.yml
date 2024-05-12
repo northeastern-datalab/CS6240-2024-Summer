@@ -1,0 +1,89 @@
+- week: 1
+  date: May 7,<br> May 9
+  lecture: Parallel Processing Basics
+  materials: <a href="pdf/Week1_Introduction.pdf">Introduction</a>,<br><a href="pdf/Week1_ParallelProcessingBasics.pdf">Parallel Processing Basics</a>
+  assignment: Begin Homework 1
+
+- week: 2
+  date: May 14,<br>  May 16
+  lecture: "Distributed Services: Distributed File System, Resource and Application Management"
+  materials: <a href="pdf/Week2_DistributedServicesIntro.pdf">Distributed System Services</a>,<br><a href="pdf/Week2_DistributedFileSystem.pdf">Distributed File System</a>,<br><a href="pdf/Week2_ResourceAndAppManagement.pdf">Resource and Application Management</a>
+  assignment:
+
+- week: 3
+  date: May 21,<br> probably no class on May 23
+  lecture: MapReduce and Spark Introduction
+  materials: <a href="pdf/Week3_MapReduceAndSpark.pdf">MapReduce and Spark</a>
+  assignment: Homework 1 Due
+
+- week: 4
+  date: May 28,<br> May 30
+  lecture: Joins
+  materials:
+  assignment: Begin Homework 2
+
+- week: 5
+  date: June 4,<br> June 6
+  lecture: Aggregation and Sort
+  materials: 
+  assignment: Homework 2 Due
+
+- week: 6
+  date: June 11,<br> June 13
+  lecture: Common Algorithm Building Blocks
+  materials: 
+  assignment: Begin Homework 3
+
+- week: 7
+  date: June 18,<br> June 20
+  lecture: Graph Algorithms
+  materials: 
+  assignment: Homework 3 Due
+
+- week: 8
+  date: June 25,<br> June 27
+  lecture: Data Miniing 1 (K-Means, Decision Tree)
+  materials: 
+  assignment: Begin Homework 4
+
+- week: 9
+  date: July 2,<br> no class on July 4, Independence Day
+  lecture: Data Miniing 2 (Ensembles)
+  materials: 
+  assignment: Homework 4 Due
+
+- week: 10
+  date: July 9,<br> July 11
+  lecture: Intelligent Partitioning
+  materials: 
+  assignment: Begin Project
+
+- week: 11
+  date: July 16,<br> July 18
+  lecture: Spark Libraries 1 (Spark SQL, Spark Streaming)
+  materials: 
+  assignment: Project Intermediate Report Due
+
+- week: 12
+  date: no class on July 23 for exam preparation,<br> July 25
+  lecture: 
+  materials: 
+  assignment: Exam
+
+- week: 13
+  date: July 30,<br> Aug 1
+  lecture: Spark Libraries 2 (MLlib, GraphX)
+  materials: 
+  assignment:
+
+- week: 14
+  date: Aug 6,<br> Aug 8
+  lecture: HBase, Hive
+  materials: 
+  assignment: Project Report Due
+
+- week: 15
+  date: Aug 13,<br> Aug 15
+  lecture: Flexible Topics
+  materials: 
+  assignment: Project Presentations
