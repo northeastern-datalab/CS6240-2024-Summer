@@ -11,7 +11,7 @@
   assignment:
 
 - week: 3
-  date: May 21,<br> probably no class on May 23
+  date: May 21,<br> no class on May 23
   lecture: MapReduce and Spark Introduction
   materials: <a href="pdf/Week3_MapReduceAndSpark.pdf">MapReduce and Spark</a>
   assignment: Homework 1 Due
@@ -19,7 +19,7 @@
 - week: 4
   date: May 28,<br> May 30
   lecture: Joins
-  materials:
+  materials: <a href="pdf/Week4_Joins.pdf">Joins</a>
   assignment: Begin Homework 2
 
 - week: 5
