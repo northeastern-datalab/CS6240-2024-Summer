@@ -18,14 +18,14 @@
 
 - week: 4
   date: May 28,<br> May 30
-  lecture: Joins
-  materials: <a href="pdf/Week4_Joins.pdf">Joins</a>
+  lecture: Aggregation and Sort
+  materials: <a href="pdf/Week4_FundamentalTechniques.pdf">Fundamental Techniques</a>
   assignment: Begin Homework 2
 
 - week: 5
   date: June 4,<br> June 6
-  lecture: Aggregation and Sort
-  materials: 
+  lecture: Joins
+  materials: <a href="pdf/Week5_Joins.pdf">Joins</a>
   assignment: Homework 2 Due
 
 - week: 6
