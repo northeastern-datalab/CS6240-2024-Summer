@@ -42,13 +42,13 @@
 
 - week: 8
   date: June 25,<br> June 27
-  lecture: Data Miniing 1 (K-Means, Decision Tree)
-  materials: 
+  lecture: Data Mining 1 (K-Means, Decision Tree)
+  materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a>
   assignment: Begin Homework 4
 
 - week: 9
   date: July 2,<br> no class on July 4, Independence Day
-  lecture: Data Miniing 2 (Ensembles)
+  lecture: Data Mining 2 (Ensembles)
   materials: 
   assignment: Homework 4 Due
 
