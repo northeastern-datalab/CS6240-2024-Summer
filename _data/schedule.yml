@@ -42,26 +42,26 @@
 
 - week: 8
   date: June 25,<br> June 27
-  lecture: Data Mining 1 (K-Means, Decision Tree)
+  lecture: Data Mining 1 (K-Means, KNN)
   materials: <a href="pdf/Week8_DataMining1.pdf">Data Mining 1</a>
   assignment: Begin Homework 4
 
 - week: 9
   date: July 2,<br> no class on July 4, Independence Day
   lecture: Data Mining 2 (Ensembles)
-  materials: 
+  materials: <a href="pdf/Week9_DataMining2.pdf">Data Mining 2</a>
   assignment: Homework 4 Due
 
 - week: 10
   date: July 9,<br> July 11
   lecture: Intelligent Partitioning
-  materials: 
+  materials: <a href="pdf/Week10_IntelligentPartitioning.pdf">Intelligent Partitioning</a>
   assignment: Begin Project
 
 - week: 11
   date: July 16,<br> July 18
   lecture: Spark Libraries 1 (Spark SQL, Spark Streaming)
-  materials: 
+  materials: <a href="pdf/Week11_MoreAboutSpark.pdf">More About Spark</a>
   assignment: Project Intermediate Report Due
 
 - week: 12
@@ -79,7 +79,7 @@
 - week: 14
   date: Aug 6,<br> Aug 8
   lecture: HBase, Hive
-  materials: 
+  materials: <a href="pdf/Week14_CAP-HBase-Hive.pdf">Beyond MapReduce and Spark</a>
   assignment: Project Report Due
 
 - week: 15
