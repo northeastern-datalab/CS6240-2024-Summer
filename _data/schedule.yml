@@ -18,7 +18,7 @@
 
 - week: 4
   date: May 28,<br> May 30
-  lecture: Aggregation and Sort
+  lecture: Aggregation, Sort
   materials: <a href="pdf/Week4_FundamentalTechniques.pdf">Fundamental Techniques</a>
   assignment: Begin Homework 2
 
@@ -56,13 +56,13 @@
   date: July 9,<br> July 11
   lecture: Intelligent Partitioning
   materials: <a href="pdf/Week10_IntelligentPartitioning.pdf">Intelligent Partitioning</a>
-  assignment: Begin Project
+  assignment: 
 
 - week: 11
   date: July 16,<br> July 18
-  lecture: Spark Libraries 1 (Spark SQL, Spark Streaming)
+  lecture: Lineage, Spark SQL
   materials: <a href="pdf/Week11_MoreAboutSpark.pdf">More About Spark</a>
-  assignment: Project Intermediate Report Due
+  assignment: 
 
 - week: 12
   date: no class on July 23 for exam preparation,<br> July 25
@@ -72,15 +72,15 @@
 
 - week: 13
   date: July 30,<br> Aug 1
-  lecture: Spark Libraries 2 (MLlib, GraphX)
+  lecture: Exam Solutions, Spark Stream, CAP Theorem
   materials: 
-  assignment:
+  assignment: Begin Project
 
 - week: 14
   date: Aug 6,<br> Aug 8
-  lecture: HBase, Hive
+  lecture: Spark MLlib, GraphX, HBase, Hive
   materials: <a href="pdf/Week14_CAP-HBase-Hive.pdf">Beyond MapReduce and Spark</a>
-  assignment: Project Report Due
+  assignment: Project Due
 
 - week: 15
   date: Aug 13,<br> Aug 15
