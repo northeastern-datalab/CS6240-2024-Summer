@@ -78,12 +78,12 @@
 
 - week: 14
   date: Aug 6,<br> Aug 8
-  lecture: Spark MLlib, GraphX, HBase, Hive
+  lecture: Spark MLlib, GraphX, HBase
   materials: <a href="pdf/Week14_CAP-HBase-Hive.pdf">Beyond MapReduce and Spark</a>
   assignment: Project Due
 
 - week: 15
   date: Aug 13,<br> Aug 15
-  lecture: Flexible Topics
+  lecture: Hive
   materials: 
   assignment: Project Presentations
